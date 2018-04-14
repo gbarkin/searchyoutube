@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+}
+
+.js-results{
+  display: flex;
+  justify-content: space-evenly;
+  max-width:800px;
+  padding:2px;
+}
+
+.thumb {
+  padding: 5px;
+  
+}
